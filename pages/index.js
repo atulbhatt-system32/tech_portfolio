@@ -1,11 +1,11 @@
-import { Footer, Navbar } from "../components";
+import { Footer, Navbar, Proud } from "../components";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
   return (
     <div className={styles.container}>
       <Navbar />
-      <h1>Home</h1>
+     <Proud/>
       <Footer />
     </div>
   );
