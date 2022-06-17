@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #FAFAFB;
+    padding: 24px 0;
+}
+
+.navItems {
+    width: 70%;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 1.219rem;
+}
+
+.resumeButton {
+    background-color: #ffffff;
+    border: 1px solid #2A7FFF;
+    color: #2A7FFF;
+    border-radius: 6px;
+    padding: 16px 32px;
+    margin-left: 130px;
+    font-weight: 500;
+    font-size: 1.125rem;
+    line-height: 1.575rem;
+}
