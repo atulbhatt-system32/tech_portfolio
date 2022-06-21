@@ -1,5 +1,5 @@
-import { Hero } from "../sections/home";
-import { Footer, Navbar, Proud } from "../components";
+import { Hero, Proud } from "../sections/home";
+import { Footer, Navbar } from "../components";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
