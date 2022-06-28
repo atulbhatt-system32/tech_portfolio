@@ -3,7 +3,7 @@ export const StyledProud = styled.div`
   padding: 2rem;
   .Heading {
     color: white;
-    font-size: 32px;
+    font-size: 30px;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
   }
